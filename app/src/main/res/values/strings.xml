@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">門診掛號系統</string>
+    <string name="data_upload_success">資料新增完成!</string>
+    <string name="data_upload_failed">資料上傳失敗，請確認是否開啟網路通訊</string>
+    <string name="btn_adduser">新增病患資料</string>
+    <string name="btn_reservation">我要預約看診</string>
+    <string name="reg_input_null_msg">資料值不可為空!請填寫完畢!</string>
+    <string name="reg_textView_name">姓名</string>
+    <string name="reg_textView_birthday">出生年月日</string>
+    <string name="reg_textView_rocid">身分證</string>
+    <string name="reg_btn_submit">資料送出</string>
+    <string name="auth_ui_title">身分認證</string>
+    <string name="auth_title">身分認證</string>
+    <string name="auth_input_msg">請輸入身分證字號，輸入完畢請按下確認</string>
+    <string name="auth_btn_submit">確認</string>
+    <string name="auth_msg_success">資料認證成功!接下來請選擇預約看診時間</string>
+    <string name="auth_msg_failed">資料認證失敗，請重新輸入!</string>
+    <string name="auth_input_null_msg">資料值不可為空!</string>
+    <string name="res_success">你已經預約成功!，如需取消請來電取消謝謝</string>
+    <string name="res_failed">預約失敗!</string>
+    <string name="res_Exception_values_null">接收資料發生意外錯誤，請重新進行認證!</string>
+</resources>
